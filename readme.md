@@ -1,4 +1,4 @@
-# HTML and CSS course in Shahid Bahonar university of kerman
+# HTML and CSS course at Shahid Bahonar university of Kerman
 
 The classes are held on:
 
