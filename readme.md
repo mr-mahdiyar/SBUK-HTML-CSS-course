@@ -7,7 +7,7 @@ The classes are held on:
 
 # Download VScode
 
-You can download visual studio code from [here](https://download.uk.ac.ir).
+You can download visual studio code from [here](https://download.uk.ac.ir) or [here](https://soft98.ir/software/programming/53-visual-studio-code-1.html).
 
 # topics
 
