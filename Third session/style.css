@@ -1,0 +1,46 @@
+.table-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.video-container {
+  margin: 0 auto;
+  width: 60%;
+}
+table {
+  min-width: 50%;
+  padding: 0.5rem;
+  border: 1px solid rgb(76, 0, 255);
+  border-radius: 0.2rem;
+}
+thead {
+  background-color: rgba(128, 128, 128, 0.4);
+}
+td {
+  text-align: center;
+}
+.col {
+  background-color: tomato;
+}
+video {
+  width: 100%;
+}
+form {
+  width: 40%;
+  margin: 0 auto;
+  border: 1px solid black;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem 0;
+}
+
+.text {
+  color: white;
+  background-color: black;
+  text-align: justify;
+  text-align-last: left;
+}
