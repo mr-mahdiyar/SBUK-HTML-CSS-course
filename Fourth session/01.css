@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "titr";
+  src: url(B-Titr/Btitr.ttf) format("truetype");
+}
+.background-img {
+  width: 1400px;
+  height: 600px;
+  background-image: url("back.jpg");
+  background-repeat: space;
+  /* background-repeat: no-repeat repeat; */
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+  /* background-size: contain; */
+  /* background-position: 30%; */
+  border: 3px solid black;
+}
+.text-decoration-line {
+  /* text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: double;
+  text-decoration-thickness: 0.25px; */
+  text-transform: capitalize;
+}
+.text-spacing {
+  /* text-indent: 200px; */
+  /* letter-spacing: 3px;
+  line-height: 50px; */
+  white-space: pre-line;
+}
+.text-shadow {
+  text-shadow: 1px 1px 3px #262626;
+}
+.font-titr {
+  /* styles will be written here. */
+  font-family: "titr";
+}

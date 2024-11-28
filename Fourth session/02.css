@@ -1,0 +1,29 @@
+.container {
+  width: 80%;
+  height: 600px;
+  /* background-color: tomato; */
+  border: 6px solid black;
+  background-image: url(back.jpg);
+  /* background-repeat: space round; */
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-size: contain;
+}
+.text {
+  /* text-decoration-line: line-through;
+  text-decoration-color: red; */
+
+  text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: wavy;
+  /* text-decoration-thickness: 4px; */
+}
+.transform {
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+  /* text-transform: capitalize; */
+  text-indent: 30px;
+  /* white-space: pre-wrap; */
+  white-space: pre-line;
+  text-shadow: 2px 2px 3px rgb(10,10,10);
+}
