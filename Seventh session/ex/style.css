@@ -1,0 +1,35 @@
+/* .container */
+/* #container */
+/* div  */
+* {
+  box-sizing: border-box;
+}
+body {
+  /* background-color: red; */
+  width: 100px;
+}
+.anchor:hover {
+  color: yellow;
+}
+.anchor:link {
+  color: brown;
+}
+.anchor:visited {
+  color: darkslateblue;
+}
+@media screen and (min-width: 640px) {
+  body {
+    background-color: green;
+  }
+}
+@media screen and (min-width: 768px) {
+  body {
+    background-color: white;
+  }
+}
+@media screen and (min-width: 1024px) {
+
+}
+@media screen and (min-width: 1280px) {
+
+}

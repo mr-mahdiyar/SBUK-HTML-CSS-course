@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Inter";
+  src: url(../assets/Inter.ttf) format(truetype);
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Inter";
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+.header__logo-container{
+  width: 15%;
+}
+.header__logo{
+  width: 100%;
+}
+.header__list-and-icons-wrapper {
+  display: flex;
+  align-self: center;
+  gap: 0 10rem;
+}
+.header__list {
+  display: flex;
+  gap: 0 2rem;
+}
+.header__list-item {
+  list-style-type: none;
+
+}
+.header__list-link {
+  text-decoration: none;
+  color: #EF7E75;
+}
+.header__list-link:hover {
+  color: rgba(239, 126, 117, 0.8)
+}
+.header__list-link-active {
+  /* text-decoration-line: underline; */
+  border-bottom: 1px solid rgb(239, 126, 117);
+  padding: 0.1rem 0;
+}
+.header__icon-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 0 1rem;
+  transform: translateY(-0.25rem);
+}
+/* ------------------------------------------ main  */
+.main__logo-container {
+  margin: -3rem 0;
+  width: 100%;
+}
+.main__banner {
+  width: 100%;
+}
